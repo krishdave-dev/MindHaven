@@ -1,5 +1,3 @@
-#MindHaven_Shivansh_18
-
 #MindHaven 🧠✨
 
 *MindHaven is a mental health companion app designed to help users track their mood, assess mental well-being, and access personalized recommendations for self-care. With features like AI therapy chatbots, mindful trackers, and insightful analytics, MindHaven empowers users to take control of their mental health journey.*
